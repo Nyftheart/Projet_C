@@ -1,0 +1,23 @@
+Bonjour
+
+Nous avons eu une idée de projet :
+
+- Mahery
+- Yann
+- Thomas
+
+Vont chaqun réaliser leur jeux seul avec l'aide si besoin d'alexandre
+
+alexandre va en parallele créé un donjon en mode rpg dans le cmd, sur le quelle on pourra mettre les event des différente histoire.
+
+chaque histoire est propre a chacun mais devra rester dans le cardre d'un donjon / mine pour etre compatible avec la map
+
+
+
+PS : 
+- Le projet d'alex n'est lançable que sur linux a cause de serataine libraire ( lancement "make" pour le compiler "make run" pour le lancer),
+- les autre pas de pb de lancement
+
+
+PB : 
+- Mahery pas de PC
